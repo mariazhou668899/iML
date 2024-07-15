@@ -1,8 +1,4 @@
-To make your report more readable on GitHub or any platform where markdown is commonly used, you can structure it with appropriate headings, subheadings, and formatting. Here’s how you can format each section of your iML application report:
-
----
-
-# iML Application Report
+# iML Applications
 
 ## I. Supervised - Classification (Pancreatic Cancer Dataset)
 
